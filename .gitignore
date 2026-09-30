@@ -95,3 +95,6 @@ data/raw/**/*.srt
 !docs/
 !docs/demo1.png
 !docs/demo2.png
+# Deployment FAISS index is tracked with Git LFS
+!deployment/indexes/
+!deployment/indexes/scene2episode.index
