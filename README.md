@@ -8,6 +8,20 @@ The system uses **CLIP image embeddings + FAISS similarity search** to compare t
 
 ---
 
+## 🖥️ Demo
+
+### Image Identification
+
+<p align="center">
+  <img src="docs/demo1.png" alt="Scene2Episode Image Identification Demo" width="900">
+</p>
+
+### Identification Result
+
+<p align="center">
+  <img src="docs/demo2.png" alt="Scene2Episode Video Identification Demo" width="900">
+</p>
+
 ## ✨ Features
 
 - 🖼️ Identify movies and TV episodes from a single image

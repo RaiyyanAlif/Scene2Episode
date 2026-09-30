@@ -90,3 +90,8 @@ evaluation_reports/
 # Local subtitles
 # ================================
 data/raw/**/*.srt
+
+# Allow project demo images
+!docs/
+!docs/demo1.png
+!docs/demo2.png
