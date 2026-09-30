@@ -665,7 +665,7 @@ This is the core idea behind Scene2Episode.
 
 # 👨‍💻 Author
 
-**Khalid Hasan**
+**Raiyyan Mahmud Alif**
 
 B.Sc. Engineering in Information and Communication Technology  
 Mawlana Bhashani Science and Technology University (MBSTU)
