@@ -49,12 +49,12 @@ class CLIPEmbedder:
 
         self.processor = CLIPProcessor.from_pretrained(
             model_name,
-            local_files_only=True,
+            local_files_only=False,
         )
 
         self.model = CLIPModel.from_pretrained(
             model_name,
-            local_files_only=True,
+            local_files_only=False,
         )
 
         self.model.to(self.device)
