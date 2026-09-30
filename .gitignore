@@ -1,0 +1,92 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ================================
+# Virtual Environment
+# ================================
+.venv/
+venv/
+env/
+
+# ================================
+# IDE
+# ================================
+.idea/
+.vscode/
+
+# ================================
+# Python cache / test
+# ================================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ================================
+# Scene2Episode generated data
+# ================================
+data/frames/
+embeddings/
+metadata/frames/
+
+# ================================
+# Large FAISS / generated files
+# ================================
+indexes/*.index
+indexes/*.json
+
+# ================================
+# Local datasets / media
+# ================================
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# ================================
+# Images generated during testing
+# ================================
+*.jpg
+*.jpeg
+*.png
+
+# ================================
+# OS files
+# ================================
+.DS_Store
+Thumbs.db
+
+# ================================
+# Environment / secrets
+# ================================
+.env
+*.env
+
+# ================================
+# Temporary files
+# ================================
+*.tmp
+*.temp
+
+# ================================
+# Generated indexes / metadata
+# ================================
+indexes/
+metadata/ocr_cache.json
+metadata/ocr_cache.json.bak
+metadata/subtitle_index.json
+
+# ================================
+# Evaluation outputs
+# ================================
+evaluation_reports/
+
+# ================================
+# Local subtitles
+# ================================
+data/raw/**/*.srt

@@ -1,0 +1,580 @@
+[
+    {
+        "id": "kung_fu_panda",
+        "title": "Kung_Fu_Panda",
+        "type": "animated",
+        "season": null,
+        "episode": null,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\animated\\Kung_Fu_Panda\\kungfu panda 4.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 5713.877,
+            "fps": 23.976,
+            "frame_count": 136996,
+            "width": 1912,
+            "height": 800
+        }
+    },
+    {
+        "id": "tangled",
+        "title": "Tangled",
+        "type": "animated",
+        "season": null,
+        "episode": null,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\animated\\Tangled\\Tangled.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 6055.932,
+            "fps": 23.976,
+            "frame_count": 145197,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "id": "chemical_heart",
+        "title": "Chemical_Heart",
+        "type": "movie",
+        "season": null,
+        "episode": null,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\movies\\Chemical_Heart\\Chemical Heart.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 5587.765,
+            "fps": 23.976,
+            "frame_count": 133972,
+            "width": 1280,
+            "height": 528
+        }
+    },
+    {
+        "id": "predestination",
+        "title": "Predestination",
+        "type": "movie",
+        "season": null,
+        "episode": null,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\movies\\Predestination\\Predestination.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 5868.873,
+            "fps": 23.976,
+            "frame_count": 140712,
+            "width": 1280,
+            "height": 534
+        }
+    },
+    {
+        "id": "lucifer_s01_e01",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 1,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e01.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e01.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.srt",
+        "video_info": {
+            "duration_seconds": 2696.895,
+            "fps": 23.976,
+            "frame_count": 64661,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e02",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 2,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e02.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2615.103,
+            "fps": 23.976,
+            "frame_count": 62700,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e03",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 3,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e03.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2588.991,
+            "fps": 23.976,
+            "frame_count": 62074,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e04",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 4,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e04.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2526.783,
+            "fps": 23.976,
+            "frame_count": 60582,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e05",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 5,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e05.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e05.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.srt",
+        "video_info": {
+            "duration_seconds": 2612.799,
+            "fps": 23.976,
+            "frame_count": 62645,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e06",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 6,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e06.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e06.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.srt",
+        "video_info": {
+            "duration_seconds": 2612.799,
+            "fps": 23.976,
+            "frame_count": 62645,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e07",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 7,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e07.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2620.863,
+            "fps": 23.976,
+            "frame_count": 62838,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e08",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 8,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e08.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e08.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.srt",
+        "video_info": {
+            "duration_seconds": 2597.055,
+            "fps": 23.976,
+            "frame_count": 62267,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e09",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 9,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e09.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e09.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.srt",
+        "video_info": {
+            "duration_seconds": 2569.023,
+            "fps": 23.976,
+            "frame_count": 61595,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e10",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 10,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e10.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e10.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.srt",
+        "video_info": {
+            "duration_seconds": 2636.991,
+            "fps": 23.976,
+            "frame_count": 63225,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e11",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 11,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e11.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2610.879,
+            "fps": 23.976,
+            "frame_count": 62598,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e12",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 12,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e12.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2636.991,
+            "fps": 23.976,
+            "frame_count": 63225,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "lucifer_s01_e13",
+        "title": "Lucifer",
+        "type": "series",
+        "season": 1,
+        "episode": 13,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Lucifer\\S01\\Lucifer.S01e13.720p.WEB-DL.Hin-Eng.x264.ESub-MLWBD.com.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2633.151,
+            "fps": 23.976,
+            "frame_count": 63132,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "id": "stranger_things_s02_e01",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 1,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E01  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2889.632,
+            "fps": 23.976,
+            "frame_count": 69282,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e02",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 2,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E02  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3360.032,
+            "fps": 23.976,
+            "frame_count": 80560,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e03",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 3,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E03  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3057.824,
+            "fps": 23.976,
+            "frame_count": 73314,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e04",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 4,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E04  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2773.664,
+            "fps": 23.976,
+            "frame_count": 66501,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e05",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 5,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E05  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3484.064,
+            "fps": 23.976,
+            "frame_count": 83534,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e06",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 6,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E06  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3110.048,
+            "fps": 23.976,
+            "frame_count": 74567,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e07",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 7,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E07  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2737.568,
+            "fps": 23.976,
+            "frame_count": 65636,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e08",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 8,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E08  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2869.664,
+            "fps": 23.976,
+            "frame_count": 68803,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s02_e09",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 2,
+        "episode": 9,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S02\\Stranger Things S02E09  1080p BluRay x265 HEVC ESub [Dual Audio][Hindi 5.1+English 5.1] -RONIN.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3728.672,
+            "fps": 23.976,
+            "frame_count": 89399,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e01",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 1,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E01  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3033.632,
+            "fps": 23.976,
+            "frame_count": 72734,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e02",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 2,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E02  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3009.824,
+            "fps": 23.976,
+            "frame_count": 72164,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e03",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 3,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E03  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 2983.712,
+            "fps": 23.976,
+            "frame_count": 71538,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e04",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 4,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E04  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3163.808,
+            "fps": 23.976,
+            "frame_count": 75856,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e05",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 5,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E05  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3120.032,
+            "fps": 23.976,
+            "frame_count": 74806,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e06",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 6,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E06  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3578.528,
+            "fps": 23.976,
+            "frame_count": 85799,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e07",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 7,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E07  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM (1).mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 3306.272,
+            "fps": 23.976,
+            "frame_count": 79271,
+            "width": 1920,
+            "height": 960
+        }
+    },
+    {
+        "id": "stranger_things_s03_e08",
+        "title": "Stranger_Things",
+        "type": "series",
+        "season": 3,
+        "episode": 8,
+        "episode_title": null,
+        "video_path": "D:\\Scene2Episode\\data\\raw\\series\\Stranger_Things\\S03\\Stranger Things S03E08  1080p NF WEBRip x265 HEVC MSubs [Dual Audio][Hindi 5.1+English 5.1] -OlaM.mkv",
+        "subtitle_path": null,
+        "video_info": {
+            "duration_seconds": 4659.488,
+            "fps": 23.976,
+            "frame_count": 111716,
+            "width": 1920,
+            "height": 960
+        }
+    }
+]
